@@ -7,6 +7,10 @@
 
 The UDP protocol was used to contact the DNS server to retrieve the IP address for the domain name **yummyrecipesforme.com**. Using the network analysis tool **tcpdump**, we observed that an ICMP error message, _“udp port 53 unreachable,”_ was returned. Since port 53 is commonly used for DNS traffic, this points to the DNS server being either down or unreachable.
 
+Below is the actual tcpdump network traffic log used during analysis:
+
+![Network traffic log file](yummyrecipesformelogfile.png)
+
 ---
 
 ## Part 2: Analysis and cause of the incident
