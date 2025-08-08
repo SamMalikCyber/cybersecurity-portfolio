@@ -42,6 +42,6 @@ apropos -a create new group
 
 ---
 
-Summary
+Summary:
 
 This exercise helped me get comfortable using man, whatis, and apropos to look up command details and options in real time. Knowing how to quickly find answers directly in the shell is key for troubleshooting and learning more things on the job, especially when dealing with new tools or unfamiliar tasks.
