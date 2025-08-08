@@ -37,6 +37,6 @@ chmod g-x drafts
 
 ---
 
-Summary
+Summary:
 
 This task helped me get hands-on with reviewing and changing file and directory permissions in Linux. Managing authorization like this is a mundane but vital part of protecting sensitive data and ensuring only the right people have access. These practical steps are building my comfort and reliability with Linux system security, especially since IAM is a domain that interests me.
