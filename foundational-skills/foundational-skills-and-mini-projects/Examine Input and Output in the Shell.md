@@ -61,4 +61,4 @@ clear
 
 Summary:
 
-This task helped reinforce basic command line concepts—using echo for output, expr for calculations, and clear for screen management. Being comfortable with these simple commands is a building block for more advanced Linux and cybersecurity work.
+This task helped reinforce basic command line concepts such as using echo for output, expr for calculations, and clear for screen management. Practicing these foundational skills and being comfortable with these simple commands is an important foundation to help build confidence and efficiency when with the command line, which is important in our everyday security tasks.
