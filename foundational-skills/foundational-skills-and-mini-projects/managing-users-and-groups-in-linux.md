@@ -36,6 +36,6 @@ sudo groupdel researcher9
 
 ---
 
-Summary
+Summary:
 
 This task gave me direct experience managing Linux users and groups, adding and removing accounts, assigning group memberships, and managing file ownership. These are skills I’ll need to be comfortable with as a security analyst, especially in environments where user access and group permissions need to be tightly controlled in a real world organization.
