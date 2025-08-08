@@ -43,7 +43,7 @@ head server_logs.txt
 # WARNING: Disk usage at 85%
 # WARNING: CPU usage high
 
-### Summary
+Summary:
 
 This mini project helped me build confidence navigating the Linux file system using commands like `pwd`, `ls`, `cd`, `cat`, and `head`, which is one of my weaknesses as of right now. These tools are essential for investigating files, logs, and user activity without relying on a graphical interface.
 
