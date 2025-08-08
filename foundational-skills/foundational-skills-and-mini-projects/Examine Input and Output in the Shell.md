@@ -56,3 +56,9 @@ expr 3500 \* 12
 clear
 ```
 **Effect:** Clears all output from the terminal window
+
+---
+
+Summary:
+
+This task helped reinforce basic command line concepts—using echo for output, expr for calculations, and clear for screen management. Being comfortable with these simple commands is a building block for more advanced Linux and cybersecurity work.
