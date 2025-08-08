@@ -42,7 +42,7 @@ grep "Human Resources" Q4_added_users.txt
 
 ---
 
-### Summary
+Summary:
 
 This mini project gave me more hands-on practice using the `grep` command and piping to isolate specific pieces of information from larger files and directories. These skills are important for efficiently navigating logs, investigating alerts, and filtering useful details without a GUI. Being comfortable with this kind of command-line work is something I’m steadily improving as I prepare for real-world analysis tasks.
 
