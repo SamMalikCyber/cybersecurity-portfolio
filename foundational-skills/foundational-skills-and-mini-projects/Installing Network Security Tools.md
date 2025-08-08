@@ -18,7 +18,7 @@ Using a Debian-based Linux environment, I worked in the Bash shell to:
 - Use `apt list --installed` to confirm both tools were installed and visible in the package list.
 - Reinstalled Suricata and verified that both tools were working.
 
-### Summary
+### Summary:
 
 This mini project gave me hands-on experience using the APT package manager to install, verify, and remove essential network security tools like `Suricata` and `tcpdump` in a Debian-based Linux environment. I practiced using commands like `apt install`, `apt remove`, and `apt list --installed` to manage applications from the terminal.  
 
