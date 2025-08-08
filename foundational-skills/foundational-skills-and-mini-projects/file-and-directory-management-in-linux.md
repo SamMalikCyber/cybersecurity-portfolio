@@ -65,6 +65,6 @@ clear
 
 ---
 
-Summary
+Summary:
 
 This project let me practice more hands-on file and directory management in Linux, including creating, moving, and deleting files and folders. I also worked on editing text files with nano. These are more basic but critical skills for managing and securing information in any Unix-based environment, and I’m getting more comfortable using them through direct practice.
