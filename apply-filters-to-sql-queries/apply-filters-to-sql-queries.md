@@ -17,7 +17,7 @@ WHERE login_time > '18:00'
 
 This returns only unsuccessful attempts after `18:00` so we can review them first.  
 
-![After-hours failed logins](apply-filters-to-sql-queries/images/after-hours-failed-logins.png)
+![After-hours failed logins](images/after-hours-failed-logins.png)
 
 ---
 
@@ -33,7 +33,7 @@ WHERE login_date = '2022-05-09'
 
 Using `OR` captured both dates in one pass.  
 
-![Specific dates logins](apply-filters-to-sql-queries/images/logins-specific-dates.png)
+![Specific dates logins](images/logins-specific-dates.png)  
 
 ---
 
@@ -48,7 +48,7 @@ WHERE NOT country LIKE 'MEX%';
 
 `LIKE 'MEX%'` matches both forms; `NOT` flips the condition so we see non-Mexico activity.  
 
-![Not Mexico logins](apply-filters-to-sql-queries/images/logins-not-mexico.png)
+![Not Mexico logins](images/logins-not-mexico.png)  
 
 ---
 
@@ -64,7 +64,7 @@ WHERE department = 'Marketing'
 
 `AND` ensures both the department and building criteria are true.  
 
-![Marketing East](apply-filters-to-sql-queries/images/marketing-east.png)
+![Marketing East](images/marketing-east.png)  
 
 ---
 
@@ -80,7 +80,7 @@ WHERE department = 'Finance'
 
 `OR` returns anyone in either department.  
 
-![Finance or Sales](apply-filters-to-sql-queries/images/finance-or-sales.png)
+![Finance or Sales](images/finance-or-sales.png)  
 
 ---
 
@@ -95,7 +95,7 @@ WHERE NOT department = 'Information Technology';
 
 This excludes IT so we can focus updates on the rest of the org.
 
-![Not IT](apply-filters-to-sql-queries/images/not-it.png)
+![Not IT](images/not-it.png)  
 
 ---
 
