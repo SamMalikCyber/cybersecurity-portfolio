@@ -6,7 +6,7 @@ My organization is tightening security around employee logins and machines. I pu
 ---
 
 ## Retrieve after hours failed login attempts
-A pootential incident occurred after business hours (after `18:00`). I filtered for failed attempts that happened after that time.
+A potential incident occurred after business hours (after `18:00`). I filtered for failed attempts that happened after that time.
 
 ```sql
 SELECT *
@@ -100,4 +100,4 @@ This excludes IT so we can focus updates on the rest of the org.
 ---
 
 ## Summary
-I used `AND`, `OR`, and `NOT` to target the exact records needed, plus `LIKE 'East%'` and `LIKE 'MEX%'` to handle building tags and country variants. These filters narrowed big tables into actionable lists for investigation and system updates without pulling unnecessary data.
+I used `AND`, `OR`, and `NOT` to target the exact records needed, plus `LIKE 'East%'` and `LIKE 'MEX%'` to handle building tags and country variants. These filters narrowed big tables into lists that can be used for investigation and system updates without pulling unnecessary data.
