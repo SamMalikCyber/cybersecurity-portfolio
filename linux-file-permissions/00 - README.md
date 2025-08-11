@@ -10,9 +10,3 @@ You are a security professional at a large organization. You mainly work with th
 Your task is to examine existing permissions on the file system. You’ll need to determine if the permissions match the authorization that should be given. If they do not match, you’ll need to modify the permissions to authorize the appropriate users and remove any unauthorized access.
 
 ---
-
-## Checking file and directory details
-I started by running:
-
-```bash
-ls -la
